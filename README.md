@@ -17,5 +17,5 @@ are costlier than what you're ordering!
 
 | Part Number/ID | Description | Notes |
 |----------------|-------------|-------|
-| [512-LM7805CT](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/LM7805CT/?qs=cnIeywgme7bzmZ37/iFT9w==) | LM7805 5V 1A linear regulator | |
+| [512-LM7805CT](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/LM7805CT/?qs=cnIeywgme7bzmZ37/iFT9w==) | LM7805 5V 1A linear regulator | Don't forget the caps! |
 | [163-179PH-EX](http://www.mouser.com/access/?pn=163-179PH-EX) | 2.1mm DC Power Jack | |
