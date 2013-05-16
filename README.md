@@ -36,6 +36,5 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part Number/ID | Description | Notes |
 |----------------|-------------|-------|
-
 | [512-LM7805CT](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/LM7805CT/?qs=cnIeywgme7bzmZ37/iFT9w==) | LM7805 5V 1A linear regulator | Don't forget the caps (datasheet has applications) |
 | [163-179PH-EX](http://www.mouser.com/access/?pn=163-179PH-EX) | 2.1mm DC Power Jack | Pretty common jack size (rated for 18V DC @ 1.5A) |
