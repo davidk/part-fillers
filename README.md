@@ -22,10 +22,14 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 ### Capacitors
 
+| Part Number/ID | Description | Notes |
+|----------------|-------------|-------|
 | [594-K104K15X7RF5TH5](http://www.mouser.com/ProductDetail/Vishay-BC-Components/K104K15X7RF5TH5/?qs=CuWZN/5Vbiofhf%252buZNGw/g==) | Vishay X7R 10% 0.1uF capacitors | X = -55c 7 = +125c R = +/- 15% (15% capacitance change over -55 to +125c) |
 
 ### Diodes
 
+| Part Number/ID | Description | Notes |
+|----------------|-------------|-------|
 | [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | 1N4001 diode | Mostly used for power stuff |
 
 ### Power
