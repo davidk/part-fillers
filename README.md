@@ -1,9 +1,11 @@
 # Part Fillers!
 
-This is a public repository containing a list of what you can buy when shipping charges 
-are costlier than what you're ordering! The idea is that you'll almost always not feel guilty
-when buying stuff on this list, since they're common components or easy little projects. If you live 
-in Shenzhen or Akihabara, please feel free to ignore this entire list. :)
+This is a public repository containing a list of what you can buy when shipping charges feel like they're a bit
+much for what little you are ordering. Add more stuff!
+
+The idea is that you'll not feel guilty when buying stuff on this list, since they're common components or 
+easy little projects. If you live in Shenzhen or Akihabara, please feel free to ignore this entire list (also,
+please ship a bunch of purple/pink LEDs over). :)
 
 Also, please feel free to fork, add your own, and send a pull request to incorporate stuff. Tables in
 Markdown are pretty easy :)
