@@ -30,7 +30,7 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part Number/ID | Description | Notes |
 |----------------|-------------|-------|
-| [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | 1N4001 diode | Mostly used for power stuff |
+| [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | Fairchild 1N4001 diode | Mostly used for power stuff |
 
 ### Power
 
