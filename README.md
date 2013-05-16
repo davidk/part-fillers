@@ -32,6 +32,7 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 | Part Number/ID | Description | Notes |
 |----------------|-------------|-------|
 | [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | Fairchild 1N4001 diode | Mostly used for power stuff |
+| [511-1N5817](http://www.mouser.com/ProductDetail/STMicroelectronics/1N5817/?qs=sGAEpiMZZMtQ8nqTKtFS%2fD9SVzsgHTKGsrEMHLFTAoc%3d) | STMicro 1N5817 Schottky | |
 
 ### Transistors/BJTs
 
