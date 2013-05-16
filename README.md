@@ -8,7 +8,8 @@ Please feel free to fork, add your own, and send a pull request to incorporate s
 Markdown are pretty easy :)
 
 Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
-just get thrown away for better parts or blow up stuff down the line. If you see something cost effective
+just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
+(with decent quality); please feel free to add it.
 
 
 ## Mouser
