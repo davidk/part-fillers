@@ -25,7 +25,9 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| 0.1uF capacitors | ***Mouser:*** `Vishay X7R 10%: X = -55c :: 7 = +125c :: R = +/- 15% (15% capacitance change over -55 to +125c)` |  [594-K104K15X7RF5TH5](http://www.mouser.com/ProductDetail/Vishay-BC-Components/K104K15X7RF5TH5/?qs=CuWZN/5Vbiofhf%252buZNGw/g==) | |
+| 0.1uF capacitors | ***Mouser:*** Vishay X7R 10% [Note: C1] |  [594-K104K15X7RF5TH5](http://www.mouser.com/ProductDetail/Vishay-BC-Components/K104K15X7RF5TH5/?qs=CuWZN/5Vbiofhf%252buZNGw/g==) | |
+
+[C1]: Vishay X7R 10%: X = -55c :: 7 = +125c :: R = +/- 15% = (15% capacitance change over -55 to +125c)
 
 ### Diodes
 
