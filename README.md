@@ -33,6 +33,14 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 |----------------|-------------|-------|
 | [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | Fairchild 1N4001 diode | Mostly used for power stuff |
 
+### Transistors
+
+| Part Number/ID | Description | Notes |
+|----------------|-------------|-------|
+| [512-2N3906TFR](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/2N4401TFR/?qs=hXzPkG2nhVb/HW5tAgoYwg==) | 2N3906 ***(PNP)*** | For the 2N3906 between TF and TFR, [TFR is 0.08 while TF is 0.20](http://www.mouser.com/Search/Refine.aspx?Keyword=512-2N3906TF) as of 5/15/2013 |
+| http://www.mouser.com/access/?pn=512-2N3904TF | 2N3904 ***(NPN)*** | TF/TFR is a packaging designation, they're both tape reel based |
+
+
 ### Power
 
 | Part Number/ID | Description | Notes |
