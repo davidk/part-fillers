@@ -25,14 +25,14 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| Vishay X7R 10% 0.1uF capacitors | X = -55c 7 = +125c R = +/- 15% (15% capacitance change over -55 to +125c) | [594-K104K15X7RF5TH5](http://www.mouser.com/ProductDetail/Vishay-BC-Components/K104K15X7RF5TH5/?qs=CuWZN/5Vbiofhf%252buZNGw/g==) | |
+| 0.1uF capacitors | ***Mouser:*** `Vishay X7R 10%: X = -55c :: 7 = +125c :: R = +/- 15% (15% capacitance change over -55 to +125c)` |  [594-K104K15X7RF5TH5](http://www.mouser.com/ProductDetail/Vishay-BC-Components/K104K15X7RF5TH5/?qs=CuWZN/5Vbiofhf%252buZNGw/g==) | |
 
 ### Diodes
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| Fairchild 1N4001 diode | Mostly used for power stuff | [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | |
-| STMicro 1N5817 Schottky | | [511-1N5817](http://www.mouser.com/ProductDetail/STMicroelectronics/1N5817/?qs=sGAEpiMZZMtQ8nqTKtFS%2fD9SVzsgHTKGsrEMHLFTAoc%3d) | |
+| 1N4001 | Mostly used for power stuff | (Fairchild) [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) | |
+| 1N5817 | Schottky: for most of your fast switchin' and LFVD needs | (STMicro) [511-1N5817](http://www.mouser.com/ProductDetail/STMicroelectronics/1N5817/?qs=sGAEpiMZZMtQ8nqTKtFS%2fD9SVzsgHTKGsrEMHLFTAoc%3d) | |
 
 ### Microcontrollers
 
