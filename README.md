@@ -5,12 +5,12 @@ much for what little you are ordering. Add more stuff!
 
 The idea is that you'll not feel guilty when buying stuff on this list, since they're common components or 
 easy little projects. If you live in Shenzhen or Akihabara, please feel free to ignore this entire list 
-(please ship a bunch of purple/pink LEDs over). :)
+(while shipping a bunch of purple/pink LEDs over -- they're really expensive in the States). :)
 
 As this is version controlled, feel free to fork, add your own, and send a pull request to incorporate stuff. Tables in
-Markdown are pretty easy. If you need any help, just ask. :)
+Markdown are pretty easy. If you need any help, please feel free to ask as well. :)
 
-Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
+Random notes: Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
 (with decent quality); please feel free to add/replace.
 
