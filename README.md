@@ -3,12 +3,8 @@
 This is a public repository containing a list of what you can buy when shipping charges feel like they're a bit
 much for what little you are ordering. Add more stuff!
 
-The idea is that you'll not feel guilty when buying stuff on this list, since they're common components or 
-easy little projects. If you live in Shenzhen or Akihabara, please feel free to ignore this entire list 
-(while shipping a bunch of purple/pink LEDs over -- they're really expensive in the States). :)
-
 As this is version controlled, feel free to fork, add your own, and send a pull request to incorporate stuff. Tables in
-Markdown are pretty easy. If you need any help, please feel free to ask as well. :)
+Markdown are pretty easy. Need help? Add to the issues list (to the right).
 
 Random notes: Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
