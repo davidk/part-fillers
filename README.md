@@ -10,6 +10,14 @@ Random notes: Bottom of the basement stuff is avoided where possible/known. No p
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
 (with decent quality); please feel free to add/replace.
 
+### LEDs (seperated by size)
+
+#### 3mm
+
+| Part | Description/Notes | Mouser | Digikey |
+|-------|-----------------|-----------|------------|
+
+
 ### Headers (0.1"/2.54mm)
 
 | Part | Description/Notes | Mouser | Digikey |
