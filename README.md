@@ -10,14 +10,19 @@ Random notes: Bottom of the basement stuff is avoided where possible/known. No p
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
 (with decent quality); please feel free to add/replace.
 
-### Common Parts
+### Headers (0.1"/2.54mm)
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| 10k ohm resistors (TH) | Common use for pullups/pulldowns | *[Note R1]*: [291-10K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=Xicon+291-10K-RC) | |
 | 2.54mm/0.1" header (TH) | 36 pins/positions | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) | |
 
-[R1]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
+### Resistors
+
+| Part | Description/Notes | Mouser | Digikey |
+|-------|-----------------|-----------|------------|
+| 10k ohm resistors (TH) | Common use for pullups/pulldowns | *[Note R1-M]*: [291-10K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=Xicon+291-10K-RC) | |
+
+[R1-M]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
 
 ### Capacitors
 
