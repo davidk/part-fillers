@@ -29,6 +29,8 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
 | 10k ohm resistors (TH) | Common use for pullups/pulldowns | *[Note R1-M]*: [291-10K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=Xicon+291-10K-RC) | |
+| 1k ohm resistors (TH) | | *[Note R1-M]*: [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC) | |
+| 330 ohm resistors (TH) | Common use as current limiting resistors for LEDs | *[Note R1-M]*: [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) | |
 
 [R1-M]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
 
