@@ -22,7 +22,7 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| 2.54mm/0.1" header (TH) | 36 pins/positions | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) | |
+| 36-pin straight | Through-hole | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) | |
 
 ### Resistors
 
