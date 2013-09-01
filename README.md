@@ -71,3 +71,10 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 |-------|-----------------|-----------|------------|
 | LM7805 5V 1A linear regulator | Don't forget the caps ([datasheet [pdf] has applications](http://www.mouser.com/ds/2/149/LM7805-189995.pdf)) | [512-LM7805CT](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/LM7805CT/?qs=cnIeywgme7bzmZ37/iFT9w==) | |
 | 2.1mm DC Power Jack | Pretty common jack size (rated for 18V DC @ 1.5A) | [163-179PH-EX](http://www.mouser.com/access/?pn=163-179PH-EX) |  | 
+
+### Sources and acknowledgements
+
+Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts numbers are borrowed from high quality projects
+which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
+
+* [BB313](http://www.johngineer.com/projects/bb313/) breakout board for the ATTiny4313/2313/45/85 series of MCUs. By johngineer.
