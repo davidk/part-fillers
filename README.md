@@ -3,9 +3,6 @@
 This is a public repository containing a list of what you can buy when shipping charges feel like they're a bit
 much for what little you are ordering. Add more stuff!
 
-As this is version controlled, feel free to fork, add your own, and send a pull request to incorporate stuff. Tables in
-Markdown are pretty easy. Need help or don't want the hassle of editing stuff? Add to the issues list (to the right).
-
 Random notes: Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
 (with decent quality); please feel free to add/replace.
@@ -77,4 +74,6 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts numbers are borrowed from high quality projects
 which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
 
-* [BB313](http://www.johngineer.com/projects/bb313/) breakout board for the ATTiny4313/2313/45/85 series of MCUs. By johngineer.
+| Project | Description | Author |
+| ------- | ----------- | ------ |
+| [BB313](http://www.johngineer.com/projects/bb313/) | Breakout board for the ATTiny4313/2313/45/85 series of MCUs |  johngineer |
