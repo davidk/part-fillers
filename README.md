@@ -71,7 +71,7 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 ### Sources and acknowledgements
 
-Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts numbers are borrowed from high quality projects
+Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts are borrowed from high quality projects
 which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
 
 | Project | Description | Author |
