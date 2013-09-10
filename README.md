@@ -7,6 +7,8 @@ Random notes: Bottom of the basement stuff is avoided where possible/known. No p
 just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
 (with decent quality); please feel free to add/replace.
 
+Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
+
 ### LEDs (seperated by size)
 
 #### 3mm
@@ -16,7 +18,6 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 | Lite-On 3mm LEDs | *[Note LED1]* | Colors: Red/Orange/Amber/Yellow/Green | |
 
 [LED1]: [Mouser catalog for Lite-On LEDs (3mm section starts bottom-right and goes to the next page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
-* Through-hole mounting
 
 ### Headers (0.1"/2.54mm)
 
