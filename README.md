@@ -23,7 +23,7 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
-| 36-pin straight | Through-hole | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) | |
+| 36-pin straight | These headers are slightly longer and mate with solderless breadboards very well | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) | |
 
 ### Resistors
 
