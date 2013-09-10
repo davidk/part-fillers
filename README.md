@@ -13,7 +13,10 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
+| Lite-On 3mm LEDs | *[Note LED1]* | Colors: Red/Orange/Amber/Yellow/Green | |
 
+[LED1]: [Mouser catalog for Lite-On LEDs (3mm section starts bottom-right and goes to the next page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
+* Through-hole mounting
 
 ### Headers (0.1"/2.54mm)
 
