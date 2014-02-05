@@ -9,6 +9,13 @@ just get thrown away for better parts or blow up stuff down the line. If you see
 
 Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
 
+### Tools
+
+#### Hand tools
+
+| Part | Description | Mouser | Digikey | 
+| Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | [Menda Tools 35622](http://www.mouser.com/Search/Refine.aspx?Keyword=809-35622) | |
+
 ### LEDs (seperated by size)
 
 #### 3mm
