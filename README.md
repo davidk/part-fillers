@@ -15,7 +15,8 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 
 | Part | Description | Mouser | Digikey | 
 |-------|-----------------|-----------|------------|
-| Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | [Menda Tools 35622](http://www.mouser.com/Search/Refine.aspx?Keyword=809-35622) | |
+| Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | [Menda Tools 35622](http://www.mouser.com/Search/Refine.aspx?Keyword=809-35622) | [
+enda Series 35622](http://www.digikey.com/product-search/en/tools/excavators-hooks-picks-probes-tuning-tools/1246032?k=16-1132-ND) |
 
 ### LEDs (seperated by size)
 
