@@ -14,6 +14,7 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 #### Hand tools
 
 | Part | Description | Mouser | Digikey | 
+|-------|-----------------|-----------|------------|
 | Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | [Menda Tools 35622](http://www.mouser.com/Search/Refine.aspx?Keyword=809-35622) | |
 
 ### LEDs (seperated by size)
