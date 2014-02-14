@@ -3,9 +3,7 @@
 A list of what you can buy when shipping charges feel like they're a bit much 
 for what little you are ordering. Add more stuff!
 
-Random notes: Bottom of the basement stuff is avoided where possible/known. No point in buying crappy stuff; it'll
-just get thrown away for better parts or blow up stuff down the line. If you see something more cost effective
-(with decent quality); please feel free to add/replace.
+Super-duper bottom of the barrel stuff is avoided where possible, but use discretion when ordering.
 
 Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
 
@@ -35,6 +33,8 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 
 ### Resistors
 
+#### Through-hole
+
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
 | 10k ohm (TH) | Common use for pullups/pulldowns | *[Note R1-M]*: [291-10K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=Xicon+291-10K-RC) | |
@@ -42,6 +42,13 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 | 330 ohm (TH) | Common use as current limiting resistors for LEDs | *[Note R1-M]*: [291-330-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) | |
 
 [R1-M]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
+
+#### Surface mount
+
+##### 0603
+| Part | Description/Notes | Mouser | Digikey |
+|-------|-----------------|-----------|------------|
+| 10k ohm (o603) | pulldowns/pullups | | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/) |
 
 ### Capacitors
 
