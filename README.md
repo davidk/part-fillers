@@ -45,7 +45,8 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 
 #### Surface mount
 
-##### 0603
+##### 0603 resistors
+
 | Part | Description/Notes | Mouser | Digikey |
 |-------|-----------------|-----------|------------|
 | 10k ohm (o603) | pulldowns/pullups | | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/) |
