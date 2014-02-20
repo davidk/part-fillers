@@ -30,7 +30,8 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 ##### 0603 resistors
 
 | Part | Description/Notes | Digikey |
-|-------|-----------------|-----------| 10k(0603) | Sneeze and lose a couple? No problem. | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/) |
+|-------|-----------------|-----------| 
+| 10k(0603) | Sneeze and lose a couple? No problem. | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/) |
 
 ### Capacitors
 
