@@ -21,9 +21,21 @@ Of note, the reason for Digikey not being represented very well: I simply order 
 
 #### 3mm
 
+#### 5mm through-hole
+
+| Part | Description | Digikey | 
+|-------|-----------------|-----------|
+| Kingbright Green LED | Diffused Vf=2.2v I=20mA 40mcd | [754-1735-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1735-ND) |
+| Kingbright Yellow LED | Diffused Vf=2.1v I=10mA 20mcd | [754-1284-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1284-ND)  |
+| Kingbright Red LED | Diffused Vf=2v I=10mA 45mcd | [754-1264-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1264-ND) |
+
 ### Headers (0.1"/2.54mm)
 
 ### Resistors
+
+| Part | Description | Digikey | 
+|-------|-----------------|-----------|
+| 100 ohm | 1/4W 5% |[100QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-100R/100QBK-ND/246)
 
 #### Surface mount
 
