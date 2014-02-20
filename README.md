@@ -1,11 +1,12 @@
 # Part Fillers
 
-A list of what you can buy when shipping charges feel like they're a bit much 
-for what little you are ordering. Add more stuff!
+Fill out your cart at Digikey/Mouser with generic items that you'll be sort-of glad to have whenever inspiration strikes.
 
 Super-duper bottom of the barrel stuff is avoided where possible, but use discretion when ordering.
 
-Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
+Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey). 
+
+Feel free to contribute your own parts as well and to use this as a playground for trying out laid back pull requests.
 
 ## Digikey
 
