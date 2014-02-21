@@ -36,14 +36,15 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 | Part | Description | Digikey | 
 |-------|-----------------|-----------|
-| 100 ohm | 1/4W 5% |[100QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-100R/100QBK-ND/246)
+| 100 ohm | 1/4W 5% |[100QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-100R/100QBK-ND/246) |
 
 #### Surface mount
 
-##### 0603 resistors
+##### 0603 (imperial) resistors
 
 | Part | Description/Notes | Digikey |
-|-------|-----------------|-----------| 
+|-------|-----------------|-----------|
+| 0 ohm | Jumpers on prototype boards. (not a superconductor as purchased) | 5,000 @ $3.90 (2/20/14) [1276-3510-2-ND](http://www.digikey.com/product-detail/en/RC1608J000CS/1276-3510-2-ND/3903518) |
 | 10k(0603) | Sneeze and lose a couple? No problem. | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/) |
 
 ### Capacitors
