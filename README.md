@@ -15,8 +15,8 @@ Feel free to contribute your own parts as well and to use this as a playground f
 #### Hand tools
 
 | Part | Description | Digikey | 
-|-------|-----------------|-----------|------------|
-| Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | ['Desco' Menda Series 35622](http://www.digikey.com/product-search/en/tools/excavators-hooks-picks-probes-tuning-tools/1246032?k=16-1132-ND) | |
+|-------|-----------------|-----------|
+| Spudger | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | ['Desco' Menda Series 35622](http://www.digikey.com/product-search/en/tools/excavators-hooks-picks-probes-tuning-tools/1246032?k=16-1132-ND) |
 
 ### LEDs (seperated by size)
 
@@ -55,10 +55,20 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 ### Transistors/BJTs
 
+#### Through-hole
+
 | Part | Description/Notes | Digikey |
 |-------|-----------------|-----------|
-| 2N3904 NPN | Fairchild 200mA NPN BJT | [2N3904FS-ND](http://www.digikey.com/product-detail/en/2N3904BU/2N3904FS-ND/1413)
-| 2N3906 PNP | Fairchild 200mA PNP BJT | [2N3906D26ZCT-ND](http://www.digikey.com/product-detail/en/2N3906TFR/2N3906D26ZCT-ND/458922)
+| 2N3904 NPN | Fairchild TO-92-3 | [2N3904FS-ND](http://www.digikey.com/product-detail/en/2N3904BU/2N3904FS-ND/1413)
+| 2N3906 PNP | Fairchild TO-92-3 | [2N3906D26ZCT-ND](http://www.digikey.com/product-detail/en/2N3906TFR/2N3906D26ZCT-ND/458922)
+
+#### Surface mount
+
+| Part | Description/Notes | Digikey |
+|-------|-----------------|-----------|
+| 2N3904 NPN | Fairchild SOT-23 | [MMBT3904FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3904/MMBT3904FSCT-ND/458971)
+| 2N3906 PNP | Fairchild SOT-23 | [MMBT3906FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3906/MMBT3906FSCT-ND/458972)
+
 ### Power
 
 #### Through-hole
