@@ -4,7 +4,7 @@ Fill out your cart at Digikey/Mouser with generic items that you'll be sort-of g
 
 Super-duper bottom of the barrel stuff is avoided where possible, but use discretion when ordering.
 
-Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey). 
+Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
 
 Feel free to contribute your own parts as well and to use this as a playground for trying out laid back pull requests.
 
@@ -14,9 +14,10 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 #### Hand tools
 
-| Part | Description | Digikey | 
+| Part | Description | Digikey |
 |-------|-----------------|-----------|
 | Spudger | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | ['Desco' Menda Series 35622](http://www.digikey.com/product-search/en/tools/excavators-hooks-picks-probes-tuning-tools/1246032?k=16-1132-ND) |
+| 8-pin SOIC Clip | Directly clips onto surface mount 8-pin ICs. Useful for unbricking C720 Chromebooks and re-programming/flashing other chips without desoldering. | [Pomona 5250 Test Clip](http://www.digikey.com/product-detail/en/5250/501-1311-ND) |
 
 ### LEDs (seperated by size)
 
@@ -24,7 +25,7 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 #### 5mm through-hole
 
-| Part | Description | Digikey | 
+| Part | Description | Digikey |
 |-------|-----------------|-----------|
 | Kingbright Green LED | Diffused Vf=2.2v I=20mA 40mcd | [754-1735-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1735-ND) |
 | Kingbright Yellow LED | Diffused Vf=2.1v I=10mA 20mcd | [754-1284-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1284-ND)  |
@@ -34,7 +35,7 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 ### Resistors
 
-| Part | Description | Digikey | 
+| Part | Description | Digikey |
 |-------|-----------------|-----------|
 | 100 ohm | 1/4W 5% |[100QBK-ND](http://www.digikey.com/product-detail/en/CFR-25JB-52-100R/100QBK-ND/246)
 
@@ -107,7 +108,7 @@ Feel free to contribute your own parts as well and to use this as a playground f
 |-------|-----------------|-----------|
 | 10k ohm (TH) | Common use for pullups/pulldowns | *[Note R1-M]*: [291-10K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=Xicon+291-10K-RC) |
 | 1k ohm (TH) | | *[Note R1-M]*: [291-1K-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC) |
-| 330 ohm (TH) | Common use as current limiting resistors for LEDs | *[Note R1-M]*: [291-330-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) | 
+| 330 ohm (TH) | Common use as current limiting resistors for LEDs | *[Note R1-M]*: [291-330-RC](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) |
 
 [R1-M]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
 
@@ -140,8 +141,8 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| 2N3906 ***(PNP)*** | For the 2N3906 between TF and TFR, [TFR is 0.08 while TF is 0.20](http://www.mouser.com/Search/Refine.aspx?Keyword=512-2N3906TF) as of 5/15/2013 *[Note: T1-M]* | [512-2N3906TFR](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/2N4401TFR/?qs=hXzPkG2nhVb/HW5tAgoYwg==) | 
-| 2N3904 ***(NPN)*** | *[Note: T1-M]* | [512-2N3904TF](http://www.mouser.com/access/?pn=512-2N3904TF) | 
+| 2N3906 ***(PNP)*** | For the 2N3906 between TF and TFR, [TFR is 0.08 while TF is 0.20](http://www.mouser.com/Search/Refine.aspx?Keyword=512-2N3906TF) as of 5/15/2013 *[Note: T1-M]* | [512-2N3906TFR](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/2N4401TFR/?qs=hXzPkG2nhVb/HW5tAgoYwg==) |
+| 2N3904 ***(NPN)*** | *[Note: T1-M]* | [512-2N3904TF](http://www.mouser.com/access/?pn=512-2N3904TF) |
 | PN2222A ***(NPN)*** | With wound toroids, can be used to make joule thieves -- lots of theory in a practical package! | [512-PN2222ATA](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/PN2222ATA/?qs=QwEULm8S1DrfA/CRPqYa%252bw==) |
 
 [T1-M]: TF/TFR is a packaging designation, they're both tape reel based
