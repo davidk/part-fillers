@@ -84,7 +84,7 @@ for trying out laid back pull requests.
 | Part | Description | Mouser |
 |-------|-----------------|-----------|
 | Spudger! | Doesn't really mar delicate surfaces, useful as a prying tool for delicate electronics | [Menda Tools 35622](http://www.mouser.com/Search/Refine.aspx?Keyword=809-35622) |
-
+| Flush cutters/side cutters | Good quality, almost as good as the Hakko ones. These have a fixed safety extrusion to deflect cut material away which may or may not be desirable in your application. | [Xcelite Shearcutter 5", Red Grips](http://www.mouser.com/Search/Refine.aspx?Keyword=578-175M) |
 ### LEDs (seperated by size)
 
 #### 3mm
@@ -94,7 +94,7 @@ for trying out laid back pull requests.
 | Lite-On 3mm **Red** | |  [Red diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHE)/[Red clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL1CHKRKNN) |
 | Lite-On 3mm **Amber** | | [Amber diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHA) |
 | Lite-On 3mm **Yellow** | | [Yellow clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-4256N) |
-| Lite-On 3mm **Green** | | [Green diffused](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-2231AT)
+| Lite-On 3mm **Green** | | [Green diffused](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-2231AT) |
 
 * [Mouser catalog for LEDs (approximate page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
 
