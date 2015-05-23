@@ -1,12 +1,13 @@
 # Part Fillers
 
-Fill out your cart at Digikey/Mouser with generic items that you'll be sort-of glad to have whenever inspiration strikes.
+Fill out your cart at Digikey/Mouser with generic items that you'll be sort-of
+glad to have whenever inspiration strikes.
 
-Super-duper bottom of the barrel stuff is avoided where possible, but use discretion when ordering.
+Bottom of the barrel stuff is avoided where possible, but use discretion when
+ordering. Most of the parts listed here have been tested.
 
-Of note, the reason for Digikey not being represented very well: I simply order from Mouser more often (i'll get to filling out the Digikey sections when I order from Digikey).
-
-Feel free to contribute your own parts as well and to use this as a playground for trying out laid back pull requests.
+Feel free to contribute your own parts as well and to use this as a playground
+for trying out laid back pull requests.
 
 ## Digikey
 
@@ -90,9 +91,14 @@ Feel free to contribute your own parts as well and to use this as a playground f
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| Lite-On 3mm LEDs | *[Note LED1]* | Colors: Red/Orange/Amber/Yellow/Green |
+| Lite-On 3mm **Red** | |  [Red diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHE)/[Red clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL1CHKRKNN) |
+| Lite-On 3mm **Amber** | | [Amber diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHA) |
+| Lite-On 3mm **Yellow** | | [Yellow clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-4256N) |
+| Lite-On 3mm **Green** | | [Green diffused](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-2231AT)
 
-[LED1]: [Mouser catalog for Lite-On LEDs (3mm section starts bottom-right and goes to the next page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
+* [Mouser catalog for LEDs (approximate page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
+
+* Other sources: [Adafruit Partfinder](https://www.adafruit.com/partfinder/leds)
 
 ### Headers (0.1"/2.54mm)
 
