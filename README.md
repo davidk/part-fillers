@@ -49,6 +49,14 @@ for trying out laid back pull requests.
 | 0 ohm | Jumpers on prototype boards. (not a superconductor as purchased) | 5,000 @ $3.90 (2/20/14) [1276-3510-2-ND](http://www.digikey.com/product-detail/en/RC1608J000CS/1276-3510-2-ND/3903518)
 | 10k ohm | Sneeze and lose a couple? No problem. | 5,000 @ $6.56 (2/13/14) [311-10KGRTR-ND](http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRTR-ND/)
 
+### Switches
+
+#### Breadboard-friendly
+
+| Part | Description/Notes | Digikey |
+|------|-------------------|---------|
+| MJTP1250 | SPST switch, thin profile and sits flush | [679-2453-ND](http://www.digikey.com/product-search/en?keywords=642-mjtp1250) |
+
 ### Capacitors
 
 ### Diodes
