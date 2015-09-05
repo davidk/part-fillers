@@ -55,7 +55,7 @@ for trying out laid back pull requests.
 
 | Part | Description/Notes | Digikey |
 |------|-------------------|---------|
-| MJTP1250 | SPST switch, thin profile and sits flush | [679-2453-ND](http://www.digikey.com/product-search/en?keywords=642-mjtp1250) |
+| MJTP1250 | SPST switch, thin profile and sits flush | [679-2453-ND](http://www.digikey.com/product-search/en?keywords=679-2453-ND) |
 
 ### Capacitors
 
@@ -129,6 +129,14 @@ for trying out laid back pull requests.
 #### Surface mount
 
 ##### 0603 resistors
+
+### Switches
+
+#### Breadboard-friendly
+
+| Part | Description/Notes | Digikey |
+|------|-------------------|---------|
+| MJTP1250 | SPST switch, thin profile and sits flush | [642-MJTP1250 ](http://www.mouser.com/Search/Refine.aspx?Keyword=642-mjtp1250) |
 
 ### Capacitors
 
