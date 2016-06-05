@@ -24,6 +24,8 @@ for trying out laid back pull requests.
 
 #### 3mm
 
+(Haven't tested any 3mm LEDs yet, open for contributions)
+
 #### 5mm through-hole
 
 | Part | Description | Digikey |
@@ -33,6 +35,8 @@ for trying out laid back pull requests.
 | Kingbright Red LED | Diffused Vf=2v I=10mA 45mcd | [754-1264-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=754-1264-ND) |
 
 ### Headers (0.1"/2.54mm)
+
+(To be filled, contributions welcome)
 
 ### Resistors
 
@@ -59,29 +63,29 @@ for trying out laid back pull requests.
 
 ### Capacitors
 
+(To be filled, contributions welcome)
+
 ### Diodes
+
+(To be filled, contributions welcome)
 
 ### Microcontrollers
 
-### Transistors/BJTs
+(To be filled, contributions welcome)
 
-#### Through-hole
+### Transistors/BJT: Through-hole
 
 | Part | Description/Notes | Digikey |
 |-------|-----------------|-----------|
 | 2N3904 NPN | Fairchild TO-92-3 | [2N3904FS-ND](http://www.digikey.com/product-detail/en/2N3904BU/2N3904FS-ND/1413)
 | 2N3906 PNP | Fairchild TO-92-3 | [2N3906D26ZCT-ND](http://www.digikey.com/product-detail/en/2N3906TFR/2N3906D26ZCT-ND/458922)
 
-#### Surface mount
+### Transistors/BJTs: Surface mount
 
 | Part | Description/Notes | Digikey |
 |-------|-----------------|-----------|
 | 2N3904 NPN | Fairchild SOT-23 | [MMBT3904FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3904/MMBT3904FSCT-ND/458971)
 | 2N3906 PNP | Fairchild SOT-23 | [MMBT3906FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3906/MMBT3906FSCT-ND/458972)
-
-### Power
-
-#### Through-hole
 
 ## Mouser
 
@@ -120,9 +124,7 @@ for trying out laid back pull requests.
 |-------|-----------------|-----------|
 | Kobiconn Mini Jumper 2.54mm pitch | Jumper with a pull tab | [Red](http://www.mouser.com/ProductDetail/Kobiconn/151-8033-E) /  [Blue](http://www.mouser.com/ProductDetail/Kobiconn/151-8031-E/) / [Black](http://www.mouser.com/ProductDetail/Kobiconn/151-8030-E)
 
-### Resistors
-
-#### Through-hole
+### Resistors: Through-hole
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
@@ -132,13 +134,13 @@ for trying out laid back pull requests.
 
 [R1-M]: Can do other values by entering 291-VALUE-RC -> [291-330-RC = 330](http://www.mouser.com/Search/Refine.aspx?Keyword=291-330-RC) or [291-1K-RC = 1k](http://www.mouser.com/Search/Refine.aspx?Keyword=291-1K-RC)
 
-#### Surface mount
+### Resistors: Surface mount
 
 ##### 0603 resistors
 
-### Switches
+(To be filled, contributions welcome)
 
-#### Breadboard-friendly
+### Switches: Breadboard-friendly
 
 | Part | Description/Notes | Digikey |
 |------|-------------------|---------|
@@ -171,11 +173,11 @@ for trying out laid back pull requests.
 |-------|-----------------|-----------|
 | 2N3906 ***(PNP)*** | For the 2N3906 between TF and TFR, [TFR is 0.08 while TF is 0.20](http://www.mouser.com/Search/Refine.aspx?Keyword=512-2N3906TF) as of 5/15/2013 *[Note: T1-M]* | [512-2N3906TFR](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/2N4401TFR/?qs=hXzPkG2nhVb/HW5tAgoYwg==) |
 | 2N3904 ***(NPN)*** | *[Note: T1-M]* | [512-2N3904TF](http://www.mouser.com/access/?pn=512-2N3904TF) |
-| PN2222A ***(NPN)*** | With wound toroids, can be used to make joule thieves -- lots of theory in a practical package! | [512-PN2222ATA](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/PN2222ATA/?qs=QwEULm8S1DrfA/CRPqYa%252bw==) |
+| PN2222A ***(NPN)*** | Run of the mill transistor. Try a few for joule thieves. | [512-PN2222ATA](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/PN2222ATA/?qs=QwEULm8S1DrfA/CRPqYa%252bw==) |
 
 [T1-M]: TF/TFR is a packaging designation, they're both tape reel based
 
-### Power
+### Power components
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
@@ -190,3 +192,5 @@ which freely list their Bill of Materials. The following is thanks in general to
 | Project | Description | Author |
 | ------- | ----------- | ------ |
 | [BB313](http://www.johngineer.com/projects/bb313/) | Breakout board for the ATTiny4313/2313/45/85 series of MCUs |  johngineer |
+| [Dangerous Prototypes' Part list](http://dangerousprototypes.com/docs/Partlist) | Dangerous Prototypes likely buys things for much cheaper these days, but this list has a diverse set of parts. | Dangerous Prototypes |
+| [Adafruit Part Finder](http://ladyada.net/wiki/partfinder) | A good part list, leaning more towards quality gear and parts than pricing. | Adafruit
