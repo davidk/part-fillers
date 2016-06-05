@@ -114,6 +114,12 @@ for trying out laid back pull requests.
 |-------|-----------------|-----------|
 | 36-pin straight | These headers are slightly longer and mate with solderless breadboards very well | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) |
 
+## Pull Jumpers
+
+| Part | Description/Notes | Mouser |
+|-------|-----------------|-----------|
+| Kobiconn Mini Jumper 2.54mm pitch | Jumper with a pull tab | [Red](http://www.mouser.com/ProductDetail/Kobiconn/151-8033-E) /  [Blue](http://www.mouser.com/ProductDetail/Kobiconn/151-8031-E/) / [Black](http://www.mouser.com/ProductDetail/Kobiconn/151-8030-E)
+
 ### Resistors
 
 #### Through-hole
