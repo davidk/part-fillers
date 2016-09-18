@@ -38,6 +38,14 @@ for trying out laid back pull requests.
 
 (To be filled, contributions welcome)
 
+### Connectors
+
+#### JST-PH
+
+| Part | Description | Digikey |
+|-------|-----------------|-----------|
+| Right-angle JST-PH connector | Fits (w/tiny offset) into a breadboard for prototyping with batteries that are terminated with a JST connector | [455-1719-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=455-1719-ND) |
+
 ### Resistors
 
 | Part | Description | Digikey |
