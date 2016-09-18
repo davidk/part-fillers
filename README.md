@@ -6,8 +6,11 @@ glad to have whenever inspiration strikes.
 Bottom of the barrel stuff is avoided where possible, but use discretion when
 ordering. Most of the parts listed here have been tested.
 
-Feel free to contribute your own parts as well and to use this as a playground
-for trying out laid back pull requests.
+Feel free to contribute your own parts as well!
+
+**Tip** Distributors like Digikey/Mouser will accept each other's part numbers. This means you can enter a Mouser part number on the Digikey site and get the matching part back (if its stocked).
+
+# Distributors
 
 ## [Digikey](digikey.md)
 
@@ -15,8 +18,7 @@ for trying out laid back pull requests.
 
 ### Sources and acknowledgements
 
-Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts are borrowed from high quality projects
-which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
+Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts are borrowed from high quality projects which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
 
 | Project | Description | Author |
 | ------- | ----------- | ------ |
