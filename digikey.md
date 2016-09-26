@@ -29,6 +29,12 @@
 
 ### Connectors
 
+#### SMA Connectors
+
+| Part | Description | Digikey |
+|-------|-----------------|-----------|
+| SMA edge mount/end launch connector | This doesn't have a datasheet for some reason (as of 2016-09-26), but it fits boards with 1.6mm of thickness. | [CON-SMA-EDGE-S-ND](http://www.digikey.com/product-search/en?vendor=0&keywords=CON-SMA-EDGE-S-ND) |
+
 #### JST-PH
 
 | Part | Description | Digikey |
