@@ -89,3 +89,10 @@
 |-------|-----------------|-----------|
 | 2N3904 NPN | Fairchild SOT-23 | [MMBT3904FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3904/MMBT3904FSCT-ND/458971)
 | 2N3906 PNP | Fairchild SOT-23 | [MMBT3906FSCT-ND](http://www.digikey.com/product-detail/en/MMBT3906/MMBT3906FSCT-ND/458972)
+
+### Misc ###
+
+| Part | Description/Notes | Digikey |
+|-------|-----------------|-----------|
+| Ruler | A PCB ruler | [PCB-RULER-ND](http://www.digikey.com/product-detail/en/digi-key-electronics/PCB-RULER-12INCH/PCB-RULER-ND/5767550)
+| Adafruit ruler | Adafruit's PCB ruler | [1528-1024-ND](http://www.digikey.com/product-detail/en/adafruit-industries-llc/1554/1528-1024-ND)
