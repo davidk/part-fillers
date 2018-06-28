@@ -1,24 +1,26 @@
-# Part Fillers
+# Parts
 
-Fill out your cart at Digikey/Mouser with generic items that you'll be sort-of
-glad to have whenever inspiration strikes.
+A repository of all the hardware parts i've encountered, bought, and used. Listed by vendor, and mostly so that I can keep track of what is good out there. Maybe it'll help you too?
 
-Bottom of the barrel stuff is avoided where possible, but use discretion when
-ordering. Most of the parts listed here have been tested.
+This used to be called `part-fillers`, but I think any user buying parts off of a big site should know what to add to pad out a cart.
+
+As a general rule, I don't add bottom of the barrel stuff, but use discretion when ordering. 
 
 Feel free to contribute your own parts as well!
 
-**Tip** Distributors like Digikey/Mouser will accept each other's part numbers. This means you can enter a Mouser part number on the Digikey site and get the matching part back (if its stocked).
-
 # Distributors
+
+To start digging, click through to one of these distributors:
 
 ## [Digikey](digikey.md)
 
 ## [Mouser](mouser.md)
 
+**Tip**: Distributors like Digikey/Mouser will accept each other's part numbers. This means you can enter a Mouser part number on the Digikey site and get the matching part back (if its stocked).
+
 ### Sources and acknowledgements
 
-Half the trouble of filling out this list is finding good quality/tested parts. This means that sometimes parts are borrowed from high quality projects which freely list their Bill of Materials. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
+Some of the inspiration for this list has come from other sources. The following is thanks in general to these projects; you may be able to use parts found on this list to build some of these.
 
 | Project | Description | Author |
 | ------- | ----------- | ------ |
