@@ -15,10 +15,12 @@
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| Lite-On 3mm **Red** | |  [Red diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHE)/[Red clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL1CHKRKNN) |
-| Lite-On 3mm **Amber** | | [Amber diffused or transparent](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHA) |
-| Lite-On 3mm **Yellow** | | [Yellow clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-4256N) |
-| Lite-On 3mm **Green** | | [Green diffused](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-2231AT) |
+| 859-LTL-1CHE | Lite-On 3mm **Red** Diffused | [Red Diffused](https://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHE%20Diffused)
+| 859-LTL1CHKRKNN | Lite-On 3mm **Red** Clear | [Red Clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL1CHKRKNN)
+| 859-LTL-1CHA | Lite-On 3mm **Amber** Diffused | [Amber Diffused](https://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHA%20Diffused)
+| 859-LTL-1CHAE |  Lite-On 3mm **Amber** Transparent | [Amber Transparent](https://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-1CHAE) |
+| 859-LTL-4256N | Lite-On 3mm **Yellow** | [Yellow Clear](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-4256N) |
+| 859-LTL-2231AT | Lite-On 3mm **Green** | [Green Diffused](http://www.mouser.com/Search/Refine.aspx?Keyword=859-LTL-2231AT) |
 
 * [Mouser catalog for LEDs (approximate page)](http://www.mouser.com/MobileCatalog.aspx?page=155)
 
@@ -28,13 +30,15 @@
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| 36-pin straight | These headers are slightly longer and mate with solderless breadboards very well | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) |
+| 649-68004-236 | Male, 36-pin straight / These headers are slightly longer and mate with solderless breadboards very well | [649-68004-236](http://www.mouser.com/ProductDetail/FCI/68004-236/?qs=eanFghet1JOyyJ/RYv6JvQ==) |
 
 ## Pull Jumpers
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| Kobiconn Mini Jumper 2.54mm pitch | Jumper with a pull tab | [Red](http://www.mouser.com/ProductDetail/Kobiconn/151-8033-E) /  [Blue](http://www.mouser.com/ProductDetail/Kobiconn/151-8031-E/) / [Black](http://www.mouser.com/ProductDetail/Kobiconn/151-8030-E)
+| 151-8033-E (Red) | Kobiconn Mini Jumper 2.54mm pitch (Jumper w/pull tab) | [Red](http://www.mouser.com/ProductDetail/Kobiconn/151-8033-E) |
+| 151-8031-E (Black) | Kobiconn Mini Jumper 2.54mm pitch (Jumper w/pull tab) | [Blue](http://www.mouser.com/ProductDetail/Kobiconn/151-8031-E/) |
+| 151-8030-E (Blue) | Kobiconn Mini Jumper 2.54mm pitch (Jumper w/pull tab) | [Black](http://www.mouser.com/ProductDetail/Kobiconn/151-8030-E) |
 
 ### Resistors: Through-hole
 
