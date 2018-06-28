@@ -60,7 +60,7 @@
 
 | Part | Description/Notes | Digikey |
 |------|-------------------|---------|
-| MJTP1250 | SPST switch, thin profile and sits flush | [642-MJTP1250 ](http://www.mouser.com/Search/Refine.aspx?Keyword=642-mjtp1250) |
+| MJTP1250 | Tactile SPST switch, thin profile and sits flush | [642-MJTP1250 ](http://www.mouser.com/Search/Refine.aspx?Keyword=642-mjtp1250) |
 
 ### Capacitors
 
@@ -74,14 +74,14 @@
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| 1N4001 | Mostly used for power stuff | *Fairchild* [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) |
-| 1N5817 | Schottky: for most of your fast switchin' and LFVD needs | *STMicro* [511-1N5817](http://www.mouser.com/ProductDetail/STMicroelectronics/1N5817/?qs=sGAEpiMZZMtQ8nqTKtFS%2fD9SVzsgHTKGsrEMHLFTAoc%3d) |
+| 1N4001 | General Power diode | *Fairchild* [512-1N4001](http://www.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=PKwgOmPR8%252bnXpabSf4kJpg==) |
+| 1N5817 | Schottky; fast switching and lower Vf | *STMicro* [511-1N5817](http://www.mouser.com/ProductDetail/STMicroelectronics/1N5817/?qs=sGAEpiMZZMtQ8nqTKtFS%2fD9SVzsgHTKGsrEMHLFTAoc%3d) |
 
 ### Microcontrollers
 
 | Part | Description/Notes | Mouser |
 |-------|-----------------|-----------|
-| ATtiny85 (DIP-8) | Loads of fun and possiblities in a small DIP-8 package | [556-ATTINY85-20PU](http://www.mouser.com/ProductDetail/Atmel/ATtiny85-20PU/?qs=8jWQYweyg6NCiiaOb5GI9Q==) |
+| ATtiny85 (DIP-8) | Breadboardable package | [556-ATTINY85-20PU](http://www.mouser.com/ProductDetail/Atmel/ATtiny85-20PU/?qs=8jWQYweyg6NCiiaOb5GI9Q==) |
 
 ### Transistors/BJTs
 
